@@ -1,0 +1,11 @@
+{
+  "name": "test-npm-bug-10686",
+  "version": "1.0.0",
+  "description": "Testing bug 10686, please ignore",
+  "main": "package.js",
+  "scripts": {
+    "preinstall": "npm install pi"
+  },
+  "author": "Filip Weiss <me@fiws.net>",
+  "license": "MIT"
+}
